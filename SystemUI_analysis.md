@@ -426,7 +426,7 @@ SystemUI的相关问题
 SystemUI 的启动流程
 系统由灭屏到keyguard的界面, 再到bouncer界面, 再解锁, 最后进入到launcher
 按下recent键系统执行流程
-
+android doze模式的原理
 ```
 
 
@@ -437,3 +437,5 @@ SystemUI 的启动流程
 [android 6.0 SystemUI源码分析(1)-SystemUI介绍](http://www.voidcn.com/blog/zhudaozhuan/article/p-5721383.html)
 [寻找Android彩蛋之路](http://blog.liudonghua.com/?p=290)
 [framework EventLog分析](http://blog.csdn.net/darkengine/article/details/8477502)
+[Android M 优化电池性能的 Doze 模式工作原理是怎样的？](https://www.zhihu.com/question/30764750/answer/57651718)
+[Optimizing for Doze and App Standby](https://developer.android.com/training/monitoring-device-state/doze-standby.html)
